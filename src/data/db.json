@@ -1,0 +1,74 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "content": "HTML is easy",
+      "important": false
+    },
+    {
+      "id": "2",
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": "3",
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": false
+    },
+    {
+      "id": "4",
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": false
+    },
+    {
+      "id": "80ad",
+      "content": "El zapi sape!!",
+      "important": false
+    },
+    {
+      "id": "a01e",
+      "content": "seeeaaaa",
+      "important": false
+    },
+    {
+      "id": "6c15",
+      "content": "SAPOI!!",
+      "important": false
+    },
+    {
+      "id": "39b5",
+      "content": "asd",
+      "important": false
+    },
+    {
+      "id": "2625",
+      "content": "AXIOS IS A BEAST",
+      "important": false
+    },
+    {
+      "id": "1126",
+      "content": "sapiola bo",
+      "important": false
+    },
+    {
+      "id": "fd10",
+      "content": "asd",
+      "important": false
+    },
+    {
+      "id": "b800",
+      "content": "asd123",
+      "important": false
+    },
+    {
+      "id": "bd1c",
+      "content": "sapelo",
+      "important": false
+    },
+    {
+      "id": "b901",
+      "content": "sape sape",
+      "important": true
+    }
+  ]
+}
