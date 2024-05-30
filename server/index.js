@@ -1,7 +1,17 @@
 const express = require('express')
+const morgan = require('morgan')
+const cors = require('cors')
+
 const app = express()
+app.use(cors())
 
 app.use(express.json())
+
+morgan.token('objectBody', function getObjBody (req,res){
+  return JSON.stringify(req.body)
+})
+
+app.use(morgan(':method :url :response-time :objectBody'))
 
 let notes = [
     {
